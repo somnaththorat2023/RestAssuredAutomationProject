@@ -1,0 +1,33 @@
+2023-02-22 15:34:34,045 +0530 [main] INFO  (Log.java:13) - runScenario - Started
+2023-02-22 15:34:34,050 +0530 [main] INFO  (Log.java:13) - Runs Cucumber Scenarios
+2023-02-22 15:34:35,604 +0530 [main] INFO  (Log.java:13) - START SCENARIO: order placed for purchasing the pet
+2023-02-22 15:34:35,618 +0530 [main] INFO  (Log.java:13) - enter creat test data method 
+2023-02-22 15:34:36,634 +0530 [main] INFO  (Log.java:13) - feature values is jquery
+2023-02-22 15:34:36,637 +0530 [main] INFO  (Log.java:13) - select * from book_user where id=1
+2023-02-22 15:34:36,638 +0530 [main] INFO  (Log.java:13) - select * from book_user where id=1
+2023-02-22 15:34:36,683 +0530 [main] INFO  (Log.java:13) - column count is3
+2023-02-22 15:34:36,684 +0530 [main] INFO  (Log.java:13) - ID-1
+2023-02-22 15:34:36,685 +0530 [main] INFO  (Log.java:13) - USERNAME-API-Test
+2023-02-22 15:34:36,686 +0530 [main] INFO  (Log.java:13) - PASSWORD-Test@@123
+2023-02-22 15:34:36,691 +0530 [main] INFO  (Log.java:44) - ****************************************************************************************
+2023-02-22 15:34:36,692 +0530 [main] INFO  (Log.java:46) -  Start pf Test scenario              petStoreOrderPlace       $$$$$$$$$$$$$$$$$$$$$$$$$
+2023-02-22 15:34:36,693 +0530 [main] INFO  (Log.java:48) - ****************************************************************************************
+2023-02-22 15:34:36,696 +0530 [main] INFO  (Log.java:13) - resource path is src/test/resources/stub-data/
+2023-02-22 15:34:36,697 +0530 [main] INFO  (Log.java:13) - src/test/resources/stub-data/petstore.json
+2023-02-22 15:34:36,700 +0530 [main] INFO  (Log.java:13) - {
+  "id": 0,
+  "petId": 0,
+  "quantity": 0,
+  "shipDate": "2023-02-16T09:45:18.653Z",
+  "status": "placed",
+  "complete": true
+}
+2023-02-22 15:34:40,851 +0530 [main] INFO  (Log.java:13) - order placed for purchasing the pet: POST  Response returned: {"id":4611686018427388131,"petId":0,"quantity":0,"shipDate":"2023-02-16T09:45:18.653+0000","status":"placed","complete":true}
+2023-02-22 15:34:40,852 +0530 [main] INFO  (Log.java:13) - order placed for purchasing the pet: POST  Response status code is: 200
+2023-02-22 15:34:40,853 +0530 [main] INFO  (Log.java:57) - End of Test scenario              petStoreOrderPlace             XXXXXXXXXXXXXXXXXXXXXX
+2023-02-22 15:34:40,853 +0530 [main] INFO  (Log.java:59) - X
+2023-02-22 15:34:40,854 +0530 [main] INFO  (Log.java:61) - X
+2023-02-22 15:34:40,854 +0530 [main] INFO  (Log.java:63) - X
+2023-02-22 15:34:40,854 +0530 [main] INFO  (Log.java:65) - X
+2023-02-22 15:34:40,863 +0530 [main] INFO  (Log.java:13) - END SCENARIO: order placed for purchasing the pet
+2023-02-22 15:34:40,877 +0530 [main] INFO  (Log.java:13) - runScenario - Passed

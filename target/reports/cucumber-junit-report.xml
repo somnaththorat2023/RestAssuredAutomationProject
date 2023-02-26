@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.036">
+    <testcase classname="API Test for pets store" name="order placed for purchasing the pet" time="6.577">
+        <system-out><![CDATA[Given Retrieve dbdata from database "jquery"................................passed
+Given Request to retrieve order placed for purchasing the pet with "petStore.json".passed
+Then validate the status code...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
